@@ -1,2 +1,2 @@
 # tensor_algebra_course
-This repo contains the implementations and exercises used in the Tensor Algebra Course, that happened in 2020.2 at the Universidade Federal do Ceará (UFC), from the Teleinformatics Engineering Post-Graduate Program.
+This repo contains implementations, homeworks and exercises made by me during the Tensor Algebra Course given at the Universidade Federal do Ceará (UFC) in 2020.2, from the Teleinformatics Engineering Post-Graduate Program.
